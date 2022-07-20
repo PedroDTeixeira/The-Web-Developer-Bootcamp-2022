@@ -18,3 +18,5 @@ while (parseInt(guess) !== targetNum) {
     }
 }
 console.log(`It took you ${attempts} attempts to get it right. The correct number was ${guess}`)
+
+// Testing the commit
