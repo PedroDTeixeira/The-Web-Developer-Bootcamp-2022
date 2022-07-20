@@ -24,3 +24,5 @@ console.log(`It took you ${attempts} attempts to get it right. The correct numbe
 // Testing Branch
 
 // Testing Github
+
+// Another test
